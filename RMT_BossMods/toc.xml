@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Sylyss Dalakan" APIVersion="14" Name="RMT_BossMods" Description="RMT Boss Encounters - LUI BossMods Derivative Module" Version="1.0">
+<Script Name="RMT_BossMods.lua"/>
+    <Form Name="RMT_BossMods.xml"/>
+
+    <!-- Encounters: Redmoon Terror -->
+    <Script Name="Encounters/RMT/Octog.lua"/>
+    <Script Name="Encounters/RMT/Starmap.lua"/>
+    <Script Name="Encounters/TEST/HousingTest.lua"/>
+</Addon>
